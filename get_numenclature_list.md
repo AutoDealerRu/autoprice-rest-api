@@ -4,6 +4,6 @@
 2. Выполнить https запрос, пример запроса:
 ```bash
 curl -H "Content-Type: application/json"  \
-     -X GET -d '{Authorization: <token>}' \
+     -X GET -d '{"Authorization": "<auth_token>"}' \
      'https://autoprice.online/api/rest/providers'
 ```
