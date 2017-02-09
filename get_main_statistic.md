@@ -1,3 +1,5 @@
 ## Для получения статистики по поставщика/предложениям, необходимо выполнить https:
 
-1. URL: https://autoprice.online/api/rest/statistic
+```bash
+curl -X GET https://autoprice.online/api/rest/statistic
+```
