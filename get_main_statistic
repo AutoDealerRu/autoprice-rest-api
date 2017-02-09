@@ -1,0 +1,3 @@
+## Для получения статистики по поставщика/предложениям, необходимо выполнить https:
+
+1. URL: https://autoprice.online/api/rest/statistic
