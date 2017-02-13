@@ -5,5 +5,5 @@
 ```bash
 curl -H "Content-Type: application/json"  \
      -X GET -d '{"Authorization": "<auth_token>"}' \
-     'https://autoprice.online/api/rest/numenclatures'
+     'https://autoprice.online/shop/api/rest/numenclatures'
 ```
